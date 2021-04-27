@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MovieSearch/static/css/main.2524e6ba.chunk.css",
+    "main.js": "/MovieSearch/static/js/main.eb9c1ab4.chunk.js",
+    "main.js.map": "/MovieSearch/static/js/main.eb9c1ab4.chunk.js.map",
+    "runtime-main.js": "/MovieSearch/static/js/runtime-main.01a48ce2.js",
+    "runtime-main.js.map": "/MovieSearch/static/js/runtime-main.01a48ce2.js.map",
+    "static/css/2.fe359a49.chunk.css": "/MovieSearch/static/css/2.fe359a49.chunk.css",
+    "static/js/2.8c25edf0.chunk.js": "/MovieSearch/static/js/2.8c25edf0.chunk.js",
+    "static/js/2.8c25edf0.chunk.js.map": "/MovieSearch/static/js/2.8c25edf0.chunk.js.map",
+    "static/js/3.82ebb1b0.chunk.js": "/MovieSearch/static/js/3.82ebb1b0.chunk.js",
+    "static/js/3.82ebb1b0.chunk.js.map": "/MovieSearch/static/js/3.82ebb1b0.chunk.js.map",
+    "index.html": "/MovieSearch/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/MovieSearch/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2524e6ba.chunk.css.map": "/MovieSearch/static/css/main.2524e6ba.chunk.css.map",
+    "static/js/2.8c25edf0.chunk.js.LICENSE.txt": "/MovieSearch/static/js/2.8c25edf0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MovieSearch/static/media/Aquire.a37a828d.otf",
+    "static/media/Dark.jpg": "/MovieSearch/static/media/Dark.411af26f.jpg",
+    "static/media/bastards.jpg": "/MovieSearch/static/media/bastards.4a08a987.jpg",
+    "static/media/fight.jpg": "/MovieSearch/static/media/fight.8e2653d6.jpg",
+    "static/media/inception.jpg": "/MovieSearch/static/media/inception.857aa2b8.jpg",
+    "static/media/shawshank.jpg": "/MovieSearch/static/media/shawshank.1b7df80f.jpg",
+    "static/media/silence.jpg": "/MovieSearch/static/media/silence.604cf1a1.jpg",
+    "static/media/titanic.jpg": "/MovieSearch/static/media/titanic.2b81cb14.jpg",
+    "static/media/wolf.png": "/MovieSearch/static/media/wolf.7e8bb2e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a48ce2.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.8c25edf0.chunk.js",
+    "static/css/main.2524e6ba.chunk.css",
+    "static/js/main.eb9c1ab4.chunk.js"
+  ]
+}
