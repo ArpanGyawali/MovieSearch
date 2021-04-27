@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Acquire';
+	src: url('../Aquire.otf');
+}
+
+h1 {
+	color: #ffccbb;
+	font-family: 'Acquire';
+}

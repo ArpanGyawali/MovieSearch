@@ -1,0 +1,5 @@
+.scr {
+	overflow: scroll;
+	border: 3px solid white;
+	height: 80vh;
+}
